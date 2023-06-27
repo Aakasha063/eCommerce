@@ -79,10 +79,10 @@ To use the e-commerce website, follow these steps:
 
 7. After successful payment, you will receive an order confirmation with a tracking number.
 
-8. As an admin, you can access the Django admin panel by visiting http://localhost:8000/admin and using the superuser credentials created during installation. From the admin dashboard, you can manage products, orders, and users.
+8. As an admin, you can access the Django admin panel by visiting http://localhost:8000/admin and using the superuser credentials created during installation. You can manage products, orders, and users from the admin dashboard.
 
 # Contributing
-We welcome contributions from the community to enhance and improve Men Fahsion Hub. If you would like to contribute, please follow these guidelines:
+I would welcome contributions from the community to enhance and improve Men Fashion Hub. If you would like to contribute, please follow these guidelines:
 
 Fork the repository and create a new branch for your contribution.
 
@@ -92,9 +92,9 @@ Commit your changes and push them to your forked repository.
 
 
 --------------------------------------------------------------------------
-Thank you for your interest in Men Fashion Hub! 
-If you have any questions or need further assistance, please feel free to contact us or create an issue in the repository.
+I appreciate your interest in Men Fashion Hub! 
+If you have any questions or need any more help, please feel free to contact me or create an issue in the repository.
 
 Submit a pull request, providing a clear explanation of your changes and their benefits.
 
-Your contribution will be reviewed, and upon approval, it will be merged into the main repository.
+Your contribution will be reviewed, and once accepted, I will merge it into the main repository.
