@@ -34,7 +34,7 @@ Admin dashboard for managing products, orders, and users
 To run the project locally, please follow these steps:
 
 1. Clone the repository to your local machine using the following command:
-git clone https://github.com/your-username/repository-name.git
+git clone [https://github.com/your-username/repository-name.git](https://github.com/Aakasha063/eCommerce.git)
 
 2. Navigate to the project directory:
 cd repository-name
